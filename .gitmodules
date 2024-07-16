@@ -1,3 +1,4 @@
 [submodule "sqeid/sqecommon-ios-sdk"]
 	path = sqeid/sqecommon-ios-sdk
 	url = git@github.com:sqesmma/sqecommon-ios-sdk.git
+	branch = develop
